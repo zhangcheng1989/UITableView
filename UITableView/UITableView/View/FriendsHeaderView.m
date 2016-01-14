@@ -55,7 +55,7 @@
 #pragma mark --当一个控件被添加到其它视图上的时候会调用以下方法
 - (void)didMoveToSuperview{
 //    if (self.group.open) {
-//         TODO :: 如果是图片的的话在这里设置箭头图片的的位置是向上还是向下
+//         TODO :: 如果是图片的的话在这里设置箭头图片的的位置是向上还是向下  
 //    }
 }
 
