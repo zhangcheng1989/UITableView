@@ -13,4 +13,5 @@
 @property(nonatomic,assign)CGFloat y;
 @property(nonatomic,assign)CGFloat width;
 @property(nonatomic,assign)CGFloat height;
+
 @end

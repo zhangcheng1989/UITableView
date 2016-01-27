@@ -27,7 +27,7 @@
 
 - (instancetype)initWithReuseIdentifier:(NSString *)reuseIdentifier{
     if (self == [super initWithReuseIdentifier:reuseIdentifier]) {
-        //TODO 这里可以先封装好UIButton
+        //这里可以先封装好UIButton
         UIButton *btn = [UIButton buttonWithType:UIButtonTypeCustom];
         [btn setTitleColor:[UIColor whiteColor] forState:UIControlStateNormal];
         [btn setBackgroundColor:[UIColor orangeColor]];
